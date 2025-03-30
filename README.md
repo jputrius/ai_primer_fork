@@ -1,3 +1,7 @@
+# Notice
+
+This is a fork of [course notes on machine learning by trokas](https://github.com/trokas/ai_primer). Making this for posterity reasons, as I'm taking over the teaching of this course.
+
 # Welcome to AI primer course
 
 [INTERACTIVE BOOK LINK](https://trokas.github.io/ai_primer/README.html)
